@@ -8,6 +8,6 @@ An end-to-end Governance, Risk, and Compliance (GRC) readiness package simulatin
 * **Objective:** Identify technical and supply-chain risks, quantify inherent vs. residual risk exposure, establish enforceable security policies, and define audit-ready verification evidence.
 
 ## Repository Structure
-* **[01-Risk-Management](./01-Risk-Management):** 5×5 Cybersecurity Risk Register with automated inherent/residual scoring formulas, severity classifications, and NIST CSF 2.0 / ISO 27001 mappings.
-* **[02-Governance-Policies](./02-Governance-Policies):** Enterprise Access Control & MFA Policy (`POL-SEC-001`) and Third-Party Vendor Risk Policy (`POL-SEC-002`) written to remediate high-priority risks.
-* **[03-Audit-and-Compliance](./03-Audit-and-Compliance):** Control-to-Evidence verification matrix detailing required artifacts for internal and external audits.
+- **[01-Risk-Management](./01-Risk-Management):** 5×5 Cybersecurity Risk Register tracking 10 technical and supply-chain risks with automated inherent/residual scoring formulas, severity classifications, and NIST CSF 2.0 / ISO 27001 mappings.
+- **[02-Governance-Policies](./02-Governance-Policies):** Enterprise Access Control & MFA Policy (`POL-SEC-001`) written to remediate high-priority perimeter and identity risks.
+- **[03-Audit-and-Compliance](./03-Audit-and-Compliance):** Control-to-Evidence verification matrix mapping all 10 risks to required internal and external audit artifacts.
